@@ -1,9 +1,5 @@
-def func_first():
-    print("First function")
- 
-
-def func_second():
-    print("Second function")
+def hello():
+    print("Hello world!")
 
   
-print(func_first())
+print(hello())
