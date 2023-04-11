@@ -1,10 +1,10 @@
 def func_first():
-  print("First function")
+    return "First function"
  
 
 def func_second():
-  print("Second function")
+    return"Second function"
 
   
-func_first()
-func_second()
+print(func_first())
+print(func_second())
